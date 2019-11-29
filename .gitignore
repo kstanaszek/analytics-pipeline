@@ -1,0 +1,11 @@
+## Directory-based project format
+.idea/
+
+## File-based project format
+*.iml
+*.ipr
+*.iws
+
+## Additional for IntelliJ
+out/
+target/
